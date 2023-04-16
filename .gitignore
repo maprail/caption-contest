@@ -1,0 +1,11 @@
+# Windows OS file
+thumbs.db
+ 
+# macOS OS file
+.DS_Store
+
+# vscode
+.vscode
+
+# ignore installed npm modules
+node_modules/
