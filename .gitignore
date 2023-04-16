@@ -9,3 +9,6 @@ thumbs.db
 
 # ignore installed npm modules
 node_modules/
+
+# ignore configuration files - security
+config/config.json
